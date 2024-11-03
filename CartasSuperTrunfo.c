@@ -1,5 +1,13 @@
 #include <stdio.h>
-
+CODIGO DA CARTA:A01
+NOME DA CIDADE:São paulo
+População: 12345000
+area:1521.11 km
+Densidade populacional:8101.19 pessoas/km
+PiB:699.28 Bilhoes de reais
+PIB per capital:56749 reais
+Numero de pontos turisticos:50
+    
 // Desafio Super Trunfo - Países
 // Tema 1 - Cadastro das Cartas
 // Este código inicial serve como base para o desenvolvimento do sistema de cadastro de cartas de cidades.
